@@ -1,3 +1,10 @@
+## 📞 للحصول على المشروع الكامل (Contact for Full Project)
+إذا كنت ترغب في الحصول على الكود المصدري الكامل للنظام وتطبيقات الهواتف الذكية (تطبيق الركاب وتطبيق السائق)، أو لديك أي استفسار، يرجى التواصل معي مباشرة عبر:
+
+* **البريد الإلكتروني:** `اكتب_بريدك_هنا@example.com`
+* **الهاتف / الواتساب:** `+967xxxxxxxx` (اكتب رقمك هنا)
+* **حساب لينكد إن:** [رابط حسابك الشخصي]
+
 # 🚌 نظام يمن باص الذكي لإدارة وتتبع الحافلات | YamenBus Smart Tracking & Management System
 
 [![Framework](https://img.shields.io/badge/Framework-React%20Native%252BExpo-61DAFB?style=for-the-badge&logo=react)](https://reactnative.dev/)
